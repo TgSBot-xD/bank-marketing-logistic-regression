@@ -115,7 +115,6 @@ through `nbconvert --execute` could not be verified there.
 ## Learning context and credits
 
 Completed while studying [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp).
-ChatGPT was used for task scoping, explanations, code review, and repository cleanup.
 
 Dataset: Moro, S., Rita, P., & Cortez, P. (2014). *Bank Marketing* [Dataset].
 UCI Machine Learning Repository. https://doi.org/10.24432/C5K306.
